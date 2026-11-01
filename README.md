@@ -1,0 +1,2 @@
+-- These are two projects for COA
+-- the circuit files are for logisim-evolution version 5.0.0
