@@ -860,64 +860,64 @@
       <a name="mode" val="unsigned"/>
       <a name="width" val="4"/>
     </comp>
-    <comp lib="9" loc="(126,222)" name="Text">
+    <comp lib="9" loc="(125,220)" name="Text">
       <a name="text" val="Second operand"/>
     </comp>
-    <comp lib="9" loc="(1302,629)" name="Text">
+    <comp lib="9" loc="(1300,625)" name="Text">
       <a name="text" val="Right-shift result"/>
     </comp>
-    <comp lib="9" loc="(149,138)" name="Text">
+    <comp lib="9" loc="(145,135)" name="Text">
       <a name="text" val="First operand"/>
     </comp>
-    <comp lib="9" loc="(1491,271)" name="Text">
+    <comp lib="9" loc="(1490,270)" name="Text">
       <a name="text" val="AND result"/>
     </comp>
-    <comp lib="9" loc="(2198,314)" name="Text">
+    <comp lib="9" loc="(2195,310)" name="Text">
       <a name="text" val="OR result"/>
     </comp>
-    <comp lib="9" loc="(2276,140)" name="Text">
+    <comp lib="9" loc="(2275,140)" name="Text">
       <a name="text" val="Addition result"/>
     </comp>
-    <comp lib="9" loc="(2519,618)" name="Text">
+    <comp lib="9" loc="(2515,615)" name="Text">
       <a name="text" val="High-part data path"/>
     </comp>
-    <comp lib="9" loc="(2620,284)" name="Text">
+    <comp lib="9" loc="(2620,280)" name="Text">
       <a name="text" val="XOR result"/>
     </comp>
-    <comp lib="9" loc="(2668,158)" name="Text">
+    <comp lib="9" loc="(2665,155)" name="Text">
       <a name="text" val="Subtraction result"/>
     </comp>
-    <comp lib="9" loc="(3231,201)" name="Text">
+    <comp lib="9" loc="(3230,200)" name="Text">
       <a name="text" val="Multiplication result"/>
     </comp>
-    <comp lib="9" loc="(491,38)" name="Text">
+    <comp lib="9" loc="(490,35)" name="Text">
       <a name="text" val="Main result"/>
     </comp>
-    <comp lib="9" loc="(504,326)" name="Text">
+    <comp lib="9" loc="(500,325)" name="Text">
       <a name="text" val="Negative/sign flag"/>
     </comp>
-    <comp lib="9" loc="(515,142)" name="Text">
+    <comp lib="9" loc="(515,140)" name="Text">
       <a name="text" val="High part of result"/>
     </comp>
-    <comp lib="9" loc="(519,238)" name="Text">
+    <comp lib="9" loc="(515,235)" name="Text">
       <a name="text" val="Overflow flag"/>
     </comp>
-    <comp lib="9" loc="(569,190)" name="Text">
+    <comp lib="9" loc="(565,190)" name="Text">
       <a name="text" val="Carry flag"/>
     </comp>
-    <comp lib="9" loc="(577,374)" name="Text">
+    <comp lib="9" loc="(575,370)" name="Text">
       <a name="text" val="Zero flag"/>
     </comp>
-    <comp lib="9" loc="(622,635)" name="Text">
+    <comp lib="9" loc="(620,635)" name="Text">
       <a name="text" val="Left-shift result"/>
     </comp>
-    <comp lib="9" loc="(68,275)" name="Text">
+    <comp lib="9" loc="(65,275)" name="Text">
       <a name="text" val="OPCODE"/>
     </comp>
-    <comp lib="9" loc="(718,392)" name="Text">
+    <comp lib="9" loc="(715,390)" name="Text">
       <a name="text" val="Division remainder"/>
     </comp>
-    <comp lib="9" loc="(808,314)" name="Text">
+    <comp lib="9" loc="(805,310)" name="Text">
       <a name="text" val="Division quotient"/>
     </comp>
     <wire from="(1010,1280)" to="(1010,1350)"/>
@@ -1413,7 +1413,7 @@
     </comp>
     <comp lib="0" loc="(1620,450)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="H1"/>
+      <a name="label" val="HI"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="0" loc="(1630,100)" name="Tunnel">
@@ -1648,49 +1648,49 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="width" val="4"/>
     </comp>
-    <comp lib="9" loc="(115,482)" name="Text">
+    <comp lib="9" loc="(115,480)" name="Text">
       <a name="text" val="Data to write"/>
     </comp>
-    <comp lib="9" loc="(127,731)" name="Text">
-      <a name="text" val="Data sent to HI"/>
-    </comp>
-    <comp lib="9" loc="(129,639)" name="Text">
+    <comp lib="9" loc="(125,635)" name="Text">
       <a name="text" val="HI write enable"/>
     </comp>
-    <comp lib="9" loc="(139,415)" name="Text">
+    <comp lib="9" loc="(125,730)" name="Text">
+      <a name="text" val="Data sent to HI"/>
+    </comp>
+    <comp lib="9" loc="(135,415)" name="Text">
       <a name="text" val="Register source selection"/>
     </comp>
-    <comp lib="9" loc="(143,837)" name="Text">
-      <a name="text" val="HI selection"/>
-    </comp>
-    <comp lib="9" loc="(144,560)" name="Text">
+    <comp lib="9" loc="(140,560)" name="Text">
       <a name="text" val="Register write enable"/>
     </comp>
-    <comp lib="9" loc="(152,323)" name="Text">
+    <comp lib="9" loc="(140,835)" name="Text">
+      <a name="text" val="HI selection"/>
+    </comp>
+    <comp lib="9" loc="(150,320)" name="Text">
       <a name="text" val="Register destination selection"/>
     </comp>
-    <comp lib="9" loc="(243,233)" name="Text">
+    <comp lib="9" loc="(240,230)" name="Text">
       <a name="text" val="Reset"/>
     </comp>
-    <comp lib="9" loc="(411,554)" name="Text">
+    <comp lib="9" loc="(410,550)" name="Text">
       <a name="text" val="General purpose register 3"/>
     </comp>
-    <comp lib="9" loc="(412,628)" name="Text">
+    <comp lib="9" loc="(410,625)" name="Text">
       <a name="text" val="High register"/>
     </comp>
-    <comp lib="9" loc="(416,410)" name="Text">
+    <comp lib="9" loc="(415,410)" name="Text">
       <a name="text" val="General purpose register 1"/>
     </comp>
-    <comp lib="9" loc="(426,346)" name="Text">
+    <comp lib="9" loc="(425,345)" name="Text">
       <a name="text" val="General purpose register 0"/>
     </comp>
-    <comp lib="9" loc="(426,480)" name="Text">
+    <comp lib="9" loc="(425,480)" name="Text">
       <a name="text" val="General purpose register 2"/>
     </comp>
-    <comp lib="9" loc="(488,224)" name="Text">
+    <comp lib="9" loc="(485,220)" name="Text">
       <a name="text" val="First register read data"/>
     </comp>
-    <comp lib="9" loc="(490,286)" name="Text">
+    <comp lib="9" loc="(490,285)" name="Text">
       <a name="text" val="Second register read data"/>
     </comp>
     <wire from="(100,380)" to="(140,380)"/>
@@ -2081,73 +2081,73 @@
 </a>
       <a name="dataWidth" val="10"/>
     </comp>
-    <comp lib="9" loc="(1021,245)" name="Text">
+    <comp lib="9" loc="(1020,245)" name="Text">
       <a name="text" val="Control word from ROM"/>
     </comp>
-    <comp lib="9" loc="(1200,631)" name="Text">
+    <comp lib="9" loc="(1200,630)" name="Text">
       <a name="text" val="Conditional jump indication"/>
     </comp>
-    <comp lib="9" loc="(1286,205)" name="Text">
+    <comp lib="9" loc="(1285,205)" name="Text">
       <a name="text" val="Flag control"/>
     </comp>
-    <comp lib="9" loc="(1298,328)" name="Text">
+    <comp lib="9" loc="(1295,325)" name="Text">
       <a name="text" val="Move control"/>
     </comp>
-    <comp lib="9" loc="(1320,147)" name="Text">
+    <comp lib="9" loc="(1320,145)" name="Text">
       <a name="text" val="Write-back selection"/>
     </comp>
-    <comp lib="9" loc="(1322,265)" name="Text">
+    <comp lib="9" loc="(1320,265)" name="Text">
       <a name="text" val="Conditional jump control"/>
     </comp>
-    <comp lib="9" loc="(1323,81)" name="Text">
+    <comp lib="9" loc="(1320,80)" name="Text">
       <a name="text" val="Register write control"/>
     </comp>
-    <comp lib="9" loc="(136,363)" name="Text">
+    <comp lib="9" loc="(135,360)" name="Text">
       <a name="text" val="Zero flag"/>
     </comp>
-    <comp lib="9" loc="(1364,234)" name="Text">
+    <comp lib="9" loc="(1360,230)" name="Text">
       <a name="text" val="Jump control"/>
     </comp>
-    <comp lib="9" loc="(1375,174)" name="Text">
+    <comp lib="9" loc="(1375,170)" name="Text">
       <a name="text" val="HI write control"/>
     </comp>
-    <comp lib="9" loc="(1407,118)" name="Text">
+    <comp lib="9" loc="(1405,115)" name="Text">
       <a name="text" val="RAM write control"/>
     </comp>
-    <comp lib="9" loc="(146,295)" name="Text">
-      <a name="text" val="Timing/state signal"/>
-    </comp>
-    <comp lib="9" loc="(147,134)" name="Text">
+    <comp lib="9" loc="(145,130)" name="Text">
       <a name="text" val="Operation/instruction code"/>
     </comp>
-    <comp lib="9" loc="(149,217)" name="Text">
+    <comp lib="9" loc="(145,215)" name="Text">
       <a name="text" val="Instruction bit"/>
     </comp>
-    <comp lib="9" loc="(1521,562)" name="Text">
+    <comp lib="9" loc="(145,295)" name="Text">
+      <a name="text" val="Timing/state signal"/>
+    </comp>
+    <comp lib="9" loc="(1520,560)" name="Text">
       <a name="text" val="Jump-taken indication"/>
     </comp>
-    <comp lib="9" loc="(374,581)" name="Text">
+    <comp lib="9" loc="(370,580)" name="Text">
       <a name="text" val="Program Counter Load(Loads a new PC value)"/>
     </comp>
-    <comp lib="9" loc="(408,469)" name="Text">
+    <comp lib="9" loc="(405,465)" name="Text">
       <a name="text" val="Flag Write Enable(Enables flag updates)"/>
     </comp>
-    <comp lib="9" loc="(416,761)" name="Text">
+    <comp lib="9" loc="(415,760)" name="Text">
       <a name="text" val="High Register Select(Selects high-register data)"/>
     </comp>
-    <comp lib="9" loc="(427,652)" name="Text">
-      <a name="text" val="HALT"/>
-    </comp>
-    <comp lib="9" loc="(428,211)" name="Text">
+    <comp lib="9" loc="(425,210)" name="Text">
       <a name="text" val="RAM Write Enable(Enables RAM writing)"/>
     </comp>
-    <comp lib="9" loc="(442,299)" name="Text">
+    <comp lib="9" loc="(425,650)" name="Text">
+      <a name="text" val="HALT"/>
+    </comp>
+    <comp lib="9" loc="(440,295)" name="Text">
       <a name="text" val="Write Back Select(Selects data written to registers)"/>
     </comp>
-    <comp lib="9" loc="(444,382)" name="Text">
+    <comp lib="9" loc="(440,380)" name="Text">
       <a name="text" val="High Register Write Enable(Enables HI register writing)"/>
     </comp>
-    <comp lib="9" loc="(449,54)" name="Text">
+    <comp lib="9" loc="(445,50)" name="Text">
       <a name="text" val="Register Write Enable(Enables register writing)"/>
     </comp>
     <wire from="(100,100)" to="(150,100)"/>
@@ -3000,7 +3000,7 @@
       <a name="addrWidth" val="6"/>
       <a name="appearance" val="logisim_evolution"/>
       <a name="contents">addr/data: 6 12
-205 243 282 2c1 310 410 510 20f
+205 245 e41 f00 b10 f00 ec0 20f
 24f 510 e81 ec0 20c 243 b10 610
 710 810 203 900 a00 100 2c0 c0
 400 d1b 2ce c1d 2cd f00
@@ -3027,76 +3027,76 @@
       <a name="appearance" val="logisim_evolution"/>
       <a name="width" val="1"/>
     </comp>
-    <comp lib="9" loc="(1062,1263)" name="Text">
+    <comp lib="9" loc="(1060,1260)" name="Text">
       <a name="text" val="RAM write enable"/>
     </comp>
-    <comp lib="9" loc="(1565,1353)" name="Text">
+    <comp lib="9" loc="(1565,1350)" name="Text">
       <a name="text" val="RAM data"/>
     </comp>
-    <comp lib="9" loc="(1771,1358)" name="Text">
+    <comp lib="9" loc="(1770,1355)" name="Text">
       <a name="text" val="Flag data path"/>
     </comp>
-    <comp lib="9" loc="(208,617)" name="Text">
-      <a name="text" val="General purpose register 1"/>
-    </comp>
-    <comp lib="9" loc="(209,557)" name="Text">
+    <comp lib="9" loc="(205,555)" name="Text">
       <a name="text" val="General purpose register 0"/>
     </comp>
-    <comp lib="9" loc="(2176,615)" name="Text">
-      <a name="text" val="Instruction ROM output"/>
+    <comp lib="9" loc="(205,615)" name="Text">
+      <a name="text" val="General purpose register 1"/>
     </comp>
-    <comp lib="9" loc="(218,667)" name="Text">
+    <comp lib="9" loc="(215,665)" name="Text">
       <a name="text" val="General purpose register 2"/>
     </comp>
-    <comp lib="9" loc="(226,743)" name="Text">
+    <comp lib="9" loc="(2175,615)" name="Text">
+      <a name="text" val="Instruction ROM output"/>
+    </comp>
+    <comp lib="9" loc="(225,740)" name="Text">
       <a name="text" val="Generalcpurpose register 3"/>
     </comp>
-    <comp lib="9" loc="(255,1298)" name="Text">
+    <comp lib="9" loc="(255,1295)" name="Text">
       <a name="text" val="RAM write enable"/>
     </comp>
-    <comp lib="9" loc="(265,794)" name="Text">
+    <comp lib="9" loc="(265,790)" name="Text">
       <a name="text" val="High register"/>
     </comp>
-    <comp lib="9" loc="(271,265)" name="Text">
+    <comp lib="9" loc="(270,265)" name="Text">
       <a name="text" val="Timing/state"/>
     </comp>
-    <comp lib="9" loc="(2838,432)" name="Text">
+    <comp lib="9" loc="(2835,430)" name="Text">
       <a name="text" val="Instruction address"/>
     </comp>
     <comp lib="9" loc="(2850,685)" name="Text">
       <a name="text" val="Current instruction"/>
     </comp>
-    <comp lib="9" loc="(2926,1376)" name="Text">
+    <comp lib="9" loc="(2925,1375)" name="Text">
       <a name="text" val="Flag/data-path-related storage"/>
     </comp>
-    <comp lib="9" loc="(300,1236)" name="Text">
+    <comp lib="9" loc="(300,1235)" name="Text">
       <a name="text" val="RAM data"/>
     </comp>
-    <comp lib="9" loc="(3020,819)" name="Text">
+    <comp lib="9" loc="(3020,815)" name="Text">
       <a name="text" val="First register operand"/>
     </comp>
-    <comp lib="9" loc="(3078,875)" name="Text">
+    <comp lib="9" loc="(3075,875)" name="Text">
       <a name="text" val="Second register operand"/>
     </comp>
-    <comp lib="9" loc="(3580,606)" name="Text">
+    <comp lib="9" loc="(3580,605)" name="Text">
       <a name="text" val="Immediate data"/>
     </comp>
-    <comp lib="9" loc="(3596,1424)" name="Text">
+    <comp lib="9" loc="(3595,1420)" name="Text">
       <a name="text" val="Data-path storage"/>
     </comp>
-    <comp lib="9" loc="(3750,986)" name="Text">
+    <comp lib="9" loc="(3750,985)" name="Text">
       <a name="text" val="ALU result"/>
     </comp>
-    <comp lib="9" loc="(548,169)" name="Text">
+    <comp lib="9" loc="(545,165)" name="Text">
       <a name="text" val="Program counter"/>
     </comp>
-    <comp lib="9" loc="(955,1376)" name="Text">
+    <comp lib="9" loc="(955,1375)" name="Text">
       <a name="text" val="Register write data"/>
     </comp>
-    <comp lib="9" loc="(955,873)" name="Text">
+    <comp lib="9" loc="(955,870)" name="Text">
       <a name="text" val="Next/selected PC path"/>
     </comp>
-    <comp lib="9" loc="(968,543)" name="Text">
+    <comp lib="9" loc="(965,540)" name="Text">
       <a name="text" val="Timing/state storage"/>
     </comp>
     <comp loc="(2010,870)" name="CONTROL"/>
